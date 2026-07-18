@@ -1,0 +1,6 @@
+{
+  "name": "Anime Island",
+  "description": "A full-stack anime streaming platform connected to Google Drive with progress tracking and search capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
